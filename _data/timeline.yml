@@ -1,17 +1,35 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Master Student major in CIT & CIS<h4>University of Pennsylvania, USA</h4>
+  from: Aug. 2021
+  to: May. 2024
+  description: I earned dual Master's degrees in Computer and Information Technology (CIT) 
+               and Computer and Information Science (CIS) from the University of Pennsylvania. 
+               My coursework included Computer System Programming, Data Structures and Software 
+               Design, Algorithms, Programming for the Web, Database and Information Systems, 
+               Interactive Computer Graphics, Advanced Rendering, and GPU Programming and Architecture.
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Software Engineer Intern<h4>Chinasoft International Technology Services Co., Ltd., CN</h4>
+  from: Jun. 2023
+  to: Aug. 2023
+  description: 
+                <ul>
+                  <li>Replicated and validated pointer authentication techniques based on ARM 
+                  architectures, focusing on securing run-time code-pointer and data-pointer 
+                  operations to robustly enhance pointer integrity and prevent attacks.</li>
+                  <li>Implemented an optimized hashtable for rapid O(1) symbol retrieval during 
+                  dynamic linking in an embedded OS kernel boot process, alongside an ELF file 
+                  parser to extract symbol information efficiently.</li>
+                </ul>
+  
+- title: Software Engineer Intern<h4>Deepin Technology Co., Ltd., CN</h4>
+  from: Jan. 2021
+  to: Jul. 2021
+  description: 
+                <ul>
+                  <li>Improved efficiency of IPC(Inter-Process Communication) and RPC(Remote 
+                  Procedure Call) debugging processes through composing debugging documentations 
+                  for Qt D-Bus related functions.</li>
+                  <li>Reduced manual testing efforts by realizing end-to-end automated test with 
+                  Python Robot Framework.</li>
+                  <li>Enhanced the robustness of desktop GUI by pinpointing bugs with GDB and 
+                  logging based on user feedback.</li>
+                </ul>
