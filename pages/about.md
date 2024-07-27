@@ -7,7 +7,7 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :smile:,<br>
+Hi I am **{{ site.author.name }}** :smile:<br>
 
 
 {% include elements/button.html link="https://drive.google.com/file/d/1c2nbXzyJpVmy30VTKHNhx0XYi31kjya1/view?usp=sharing" text="backend SDE resume" %}
